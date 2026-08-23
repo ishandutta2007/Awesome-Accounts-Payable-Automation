@@ -106,19 +106,19 @@
   <!-- Left/Center Branding Area -->
   <g transform="translate(80, 55)">
     <!-- Top Micro Tag -->
-    <rect x="0" y="0" width="220" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6"/>
+    <rect x="400" y="0" width="220" height="28" rx="14" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6"/>
     <circle cx="14" cy="14" r="4" fill="#38bdf8" class="node-dot" />
-    <text x="26" y="18" fill="#38bdf8" class="badge-text">CURATED ECOSYSTEM 2026</text>
+    <text x="426" y="18" fill="#38bdf8" class="badge-text">CURATED ECOSYSTEM 2026</text>
 
     <!-- Main Title -->
-    <text x="0" y="78" fill="url(#primaryGrad)" class="title-text" font-size="40">Awesome Accounts Payable</text>
-    <text x="0" y="122" fill="#ffffff" class="title-text" font-size="40">Automation (AP)</text>
+    <text x="400" y="78" fill="url(#primaryGrad)" class="title-text" font-size="40">Awesome Accounts Payable</text>
+    <text x="400" y="122" fill="#ffffff" class="title-text" font-size="40">Automation (AP)</text>
 
     <!-- Subtitle -->
-    <text x="0" y="160" fill="#94a3b8" class="subtitle-text" font-size="15">
+    <text x="400" y="160" fill="#94a3b8" class="subtitle-text" font-size="15">
       The ultimate guide to AI OCR, 3-Way Matching, Approval Workflows,
     </text>
-    <text x="0" y="182" fill="#94a3b8" class="subtitle-text" font-size="15">
+    <text x="400" y="182" fill="#94a3b8" class="subtitle-text" font-size="15">
       Enterprise Spend Management, SaaS Leaders &amp; Open-Source Projects.
     </text>
   </g>
@@ -138,7 +138,7 @@
     <!-- Workflow Nodes -->
     <!-- Node 1: Ingestion & OCR -->
     <g transform="translate(30, 60)">
-      <rect x="0" y="0" width="110" height="70" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
+      <rect x="0" y="0" width="120" height="70" rx="8" fill="#1e293b" stroke="#38bdf8" stroke-width="1.2"/>
       <text x="12" y="24" fill="#38bdf8" font-size="16">📄</text>
       <text x="36" y="24" fill="#f8fafc" class="badge-text" font-size="11">Invoice Capture</text>
       <text x="12" y="44" fill="#64748b" class="badge-text" font-size="9.5">AI OCR &amp; VLM</text>
@@ -174,7 +174,7 @@
 
     <!-- Bottom Node: Global Payment & ERP Posting -->
     <g transform="translate(70, 160)">
-      <rect x="0" y="0" width="300" height="75" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
+      <rect x="0" y="0" width="350" height="75" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.2"/>
       <text x="20" y="28" fill="#10b981" font-size="18">💳</text>
       <text x="50" y="28" fill="#f8fafc" class="badge-text" font-size="12">Payment Execution &amp; ERP Sync</text>
       <text x="50" y="46" fill="#94a3b8" class="badge-text" font-size="10">ACH · Wire · Virtual Cards · International Multi-Currency</text>
