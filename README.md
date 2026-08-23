@@ -1,6 +1,6 @@
 # Awesome-Accounts-Payable-Automation
 
-# Top Accounts Payable Automation Ecosystem
+## Top Accounts Payable Automation Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Invoice Capture, OCR/AI Extraction, Approval Workflows, 3-Way Matching, Payments & ERP Integration*
