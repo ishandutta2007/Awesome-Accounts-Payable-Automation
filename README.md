@@ -22,38 +22,25 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Tipalti](https://tipalti.com/)**  
-  Global AP automation platform strong in mass payments, multi-currency, tax compliance (1099/1042-S), and complex supplier networks.
-
-- **[BILL (Bill.com)](https://www.bill.com/)**  
-  Widely adopted AP (and AR) platform for SMBs and mid-market, with invoice processing, approvals, payments, and deep QuickBooks/Xero/NetSuite integrations.
-
-- **[Stampli](https://www.stampli.com/)**  
-  AI-powered AP automation focused on collaborative invoice processing, on-invoice communication, and coding accuracy (“Billy the Bot”).
-
-- **[AvidXchange](https://www.avidxchange.com/)**  
-  Mid-market AP automation with a large supplier payment network, popular in real estate, construction, and property management.
-
-- **[Melio](https://www.melio.com/)**  
-  Simple, modern bill-pay and AP solution aimed at growing businesses, with flexible payment options (including paying vendors who only accept checks).
-
-- **[Airbase](https://www.airbase.com/)**  
-  Spend management and AP platform combining invoice processing, approvals, purchasing controls, and payments.
-
-- **[Quadient AP / Beanworks](https://www.quadient.com/)**  
-  AP automation solution with strong approval workflows and ERP integrations for mid-market organizations.
-
-- **[Yooz](https://www.getyooz.com/)**  
-  Cloud AP automation platform offering invoice capture, workflow, and integration capabilities with all-inclusive pricing models in some markets.
-
-- **[Ramp AP](https://ramp.com/)**  
-  Modern finance platform with AI-assisted invoice processing, coding, approvals, and payments as part of a broader spend-management suite.
-
-- **[Medius](https://www.medius.com/)**  
-  Enterprise-grade AP automation focused on touchless processing, advanced matching, and complex approval hierarchies.
-
-- **[Ottimate (formerly Plate IQ), Veryfi, Nanonets, Lightyear, Zahara, Corpay One, MineralTree](https://www.ottimate.com/)**  
-  Specialized or complementary AP automation and document-AI platforms offering capture, extraction, coding, and workflow features.
+| Platform | Description & Key Capabilities | Starting Price | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[BILL (Bill.com)](https://www.bill.com/)** | Widely adopted AP/AR platform with invoice processing, approvals, payment rails, and deep QuickBooks/Xero/NetSuite integrations. | **$45/user/month** (Essentials plan; Corporate at $79/user/month) | **30-day free trial** with full AP/AR workflow features; free subscription-tier account for vendor payment reception. |
+| **[Melio](https://www.melio.com/)** | Simple, modern bill-pay and AP solution designed for SMBs with flexible payment options (ACH, credit cards, check mailing). | **$0/month** (Go plan; paid Core tier starts at **$25/month**) | **Permanent Free Tier (Go Plan):** Up to 5 free ACH bank transfers/month, 1 user seat, 10 free accounting syncs (QuickBooks/Xero); 30-day free trial for paid plans. |
+| **[Ramp AP](https://ramp.com/)** | Modern finance & spend management platform with AI invoice capture, approval routing, corporate cards, and payment execution. | **$0/month** (Free core platform; Plus tier starts at **$15/user/month**) | **Permanent Free Tier:** Unlimited users, unlimited virtual/physical cards, automated OCR invoice capture, basic approval workflows, and standard ACH bill pay; 30-day free trial for Plus. |
+| **[Veryfi](https://www.veryfi.com/)** | AI-driven document OCR and expense automation for receipts, invoices, and purchase orders with instant field extraction. | **$17.50/user/month** (Expense app billed annually; API Starter starts at **$500/month**) | **Permanent Free Tier:** Up to 100 documents/month on the API tier, or up to 10 receipts/month with 6-month storage on the mobile app; 14-day free trial for paid plans. |
+| **[Nanonets](https://nanonets.com/)** | AI-native document processing and workflow automation platform for intelligent invoice capture and ERP validation. | **$0/month** pay-as-you-go ($0.10–$0.30 per AI run; prepaid tier starts at **$100 for 100 credits**) | **Permanent Free Tier:** **$50 in free trial credits** upon sign-up (~160 to 500 AI model extractions, no credit card required); custom volume enterprise trials upon request. |
+| **[Corpay One](https://www.corpayone.com/)** | Automated bill-pay and expense management software combining OCR document scanning, approval workflows, and payments. | **$0/month** base platform fee (transaction costs apply: 2.9% credit card, $9.50 international wire) | **Permanent Free Tier:** **$0/month base platform** including core invoice capture, unlimited team members, and basic ACH payment scheduling; 14-day free trial for advanced add-ons. |
+| **[Tipalti](https://tipalti.com/)** | Global end-to-end AP automation platform covering mass multi-currency payouts, tax compliance (1099/1042-S), and supplier portals. | **$99/month** (Base platform subscription fee; additional per-transaction processing and FX fees apply) | **14-day guided sandbox trial** provided via sales demo (no permanent free tier). |
+| **[Lightyear](https://www.lightyear.cloud/)** | Cloud purchasing and AP automation solution offering line-item invoice data extraction, 3-way matching, and approvals. | **£130/month** (~$165/month Starter tier for up to 250 documents/month) | **30-day free trial** with full feature access, unlimited users and entities, and no credit card required. |
+| **[Zahara](https://www.zaharasoftware.com/)** | Purchase order and AP invoice approval software tailored for multi-tier budget controls and invoice recognition. | **$142/month** (~£115/month or £133/year basic entry plan; Teams plan at ~$275/month) | **30-day free trial** with full functionality (supports up to 10 users and invoice OCR testing, no credit card required). |
+| **[Yooz](https://www.getyooz.com/)** | Cloud-based AI AP automation delivering invoice capture, automated GL coding, 3-way matching, and ERP sync. | **$199/month** (Entry tier based on document processing volume) | **15-day free trial** with full cloud access in a live production test environment. |
+| **[AvidXchange](https://www.avidxchange.com/)** | Mid-market AP automation and supplier payment network specialized in real estate, construction, and healthcare. | **~$440/month** (Entry subscription tier starting at ~$5,280/year based on invoice volume) | **14-day interactive guided demo/sandbox environment** upon consultation (no permanent free tier). |
+| **[MineralTree](https://www.mineraltree.com/)** | Mid-market AP automation and TotalPay solution combining invoice workflow capture and multi-method payment execution. | **~$416/month** (Starts at ~$5,000/year base platform subscription) | **14-day guided proof-of-concept sandbox** provided during sales evaluation (no permanent free tier). |
+| **[Stampli](https://www.stampli.com/)** | Collaborative AI-powered AP automation platform with interactive invoice communication and coding assistant ("Billy the Bot"). | **~$500/month** (Entry tier starting at ~$6,000/year for up to ~150 invoices/month) | **14-day interactive sandbox trial** available upon demo request (no permanent free tier). |
+| **[Quadient AP / Beanworks](https://www.quadient.com/)** | Multi-entity AP automation software featuring PO matching, approval workflows, expense management, and payments. | **~$167/month** (Starts at ~$2,000/year for base module + per-invoice volume fees) | **14-day personalized sandbox pilot** provided upon demo consultation (no permanent free tier). |
+| **[Airbase](https://www.airbase.com/)** | Comprehensive spend management platform integrating AP invoice processing, procurement approvals, and expense management. | **$0/month** (Essentials plan for early-stage teams; Growth tier starts at **~$1,500/month** / $18k/year) | **Permanent Free Tier (Essentials Plan):** Free core spend management and basic bill-pay workflows for small teams; 30-day trial for Growth features. |
+| **[Medius](https://www.medius.com/)** | Enterprise AP automation and spend management suite focused on touchless invoice processing and complex ERP matching. | **$2,499/month** (Professional tier; Enterprise tier starts at **$3,499/month**) | **14-day guided proof-of-concept / sandbox evaluation** upon consultation (no permanent free tier). |
+| **[Ottimate (formerly Plate IQ)](https://www.ottimate.com/)** | AI AP automation and line-item invoice processing built for hospitality, restaurants, retail, and multi-unit businesses. | **~$150/location/month** (Base tier for invoice capture, line-item coding, and recipe cost sync) | **14-day guided sandbox pilot** available upon sales demo request (no permanent free tier). |
 
 ## Open-Source GitHub Projects
 
