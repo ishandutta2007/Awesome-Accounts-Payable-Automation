@@ -110,6 +110,9 @@
 - 🌟 **[Invoice-to-Pay Agent](https://github.com/mshojaei77/invoice-to-pay-agent)** [![Stars](https://img.shields.io/github/stars/mshojaei77/invoice-to-pay-agent?style=social&color=white)](https://github.com/mshojaei77/invoice-to-pay-agent/stargazers)  
   Autonomous AI agent prototype for end-to-end Accounts Payable: executes OCR/VLM invoice parsing, 3-way matching against purchase orders, anomaly detection, approval routing, and simulated ERP ledger posting.
 
+- 🌟 **[OpenBooks](https://github.com/braedonsaunders/openbooks)** [![Stars](https://img.shields.io/github/stars/braedonsaunders/openbooks?style=social&color=white)](https://github.com/braedonsaunders/openbooks/stargazers)  
+  Open-source mid-market accounting/ERP with vendor bills, approvals, multi-entity books, job costing, and an audit trail for AP workflows.
+
 - 🌟 **[AgenticAP / AI-Invoice](https://github.com/williamjxj/AgenticAP)** [![Stars](https://img.shields.io/github/stars/williamjxj/AgenticAP?style=social&color=white)](https://github.com/williamjxj/AgenticAP/stargazers)  
   AI-native AP automation platform utilizing Vision-Language Models (VLMs) and LLMs to parse diverse, multi-format vendor bills (PDF, PNG, Excel) with zero pre-configured templates.
 
